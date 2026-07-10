@@ -1,0 +1,8 @@
+Mathematics 1|PHM111|3
+Mathematics 2|PHM112|3
+Vibration and Waves|PHM121|3
+Dynamics|PHM132|3
+Chemistry|PHM141|3
+Introduction to Computer Programming|CSE141|3
+Probability and Statistics|PHM113|2
+Properties of Electrical Materials|EBM113|2
